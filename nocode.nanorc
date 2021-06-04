@@ -1,0 +1,4 @@
+syntax nocode "\.no$"
+comment ""
+
+color white,red ".*"
