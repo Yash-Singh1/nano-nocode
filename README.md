@@ -6,17 +6,23 @@ Syntax highlighting for the [`nocode` language](https://github.com/kelseyhightow
 
 Run:
 
+### Ubuntu/Debian
+
 ```sh
 sudo cp nocode.nanorc /usr/share/nano/
 ```
 
-or
+### Mac
 
 ```sh
-sudo cp nocode.nanorc /usr/local/share/nano/
+cp nocode.nanorc /usr/local/share/nano/
 ```
 
-depending on your system.
+### Windows
+
+```sh
+cp nocode.nanorc /usr/share/nano/
+```
 
 ## Usage
 
