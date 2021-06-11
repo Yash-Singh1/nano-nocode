@@ -39,4 +39,4 @@ cp nocode.nanorc /usr/share/nano/
 
 ## Usage
 
-Creating and editing a `.no` file should give errors.
+Creating and editing a `.no` file should give errors if it is non-empty.
